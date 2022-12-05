@@ -51,6 +51,7 @@ body[data-theme='light'], .light-bg, .light-mode-texts {
 }
 
 body {
+  overflow-x: hidden;
   --bg:                   $white;
   --bg-2:                  #f8f9fc;
   --color-headings:      #25373f;
