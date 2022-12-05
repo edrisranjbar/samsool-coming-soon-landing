@@ -2047,6 +2047,7 @@ li.sub-menu--item.nav-item-has-children i {
 }
 
 .hero-area-l11 .content h1 {
+  text-align: center;
   font-family: var(--font);
   color: #1F1F1F;
   font-size: 34px;
